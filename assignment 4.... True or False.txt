@@ -1,0 +1,45 @@
+The true or false answers for each statement along with corrections for the false statements:
+
+(a) Object-oriented programming permits reusability of the existing code.
+      True
+
+(b) Languages earlier than procedural programming languages made use of only global variables.
+      False
+Correct Statement: Languages earlier than procedural programming languages often used global variables extensively, but they also had local variables in some cases. For instance, early assembly languages and some early high-level languages did support local variables.
+
+(c) It is easier to write, understand and maintain programs if they use Object-Oriented programming model as compared to Structured programming model.
+       True
+
+(d) As compared to procedures, data is not given enough importance in Procedural programming.
+    True
+
+(e) Structured programming model does not represent the real world problem as well as the Object-oriented programming model
+     True
+
+(f) A class permits us to build user-defined data types.
+      True
+
+(g) Encapsulation facilitates a single function name to be used for the same operation performed on related derived classes.
+       False
+ Correct Statement: Polymorphism, not encapsulation, facilitates a single function name to be used for the same operation performed on related derived classes.
+
+(h) In polymorphism even though the function names are same, their implementation may vary from class to class.
+      True
+
+(i) Multiple objects can be created from the same class.
+     True
+
+(j) Object-oriented Programming paradigm stresses on dividing the logic into smaller parts and writing procedures for each part.
+      False
+ Correct Statement: The Object-Oriented Programming paradigm stresses on encapsulating data and behavior into objects rather than simply dividing logic into smaller parts, which is a characteristic of Structured Programming.
+
+(k) Classes and objects are cornerstones of structured programming paradigm.
+        False
+Correct Statement:- Classes and objects are cornerstones of the Object-Oriented Programming paradigm, not the Structured Programming paradigm.
+
+(l) Object-oriented programming paradigm gives equal importance to data and the procedures that work on the data.
+      True
+
+(m) Java is a structured programming language.
+     False
+  Correct Statement: Java is an Object-Oriented Programming language, though it also supports structured programming principles.
